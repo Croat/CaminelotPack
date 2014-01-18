@@ -1,0 +1,8 @@
+environment.properties
+/eclipse
+/bin
+/build
+/.gradle
+/.settings
+/.classpath
+/.project
